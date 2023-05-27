@@ -50,11 +50,9 @@
         <li>📨 If you have any questions, suggestions or just want to get to know me, don't hesitate to contact me!<p></li> 
     </ul>
   </h5>
-  
 </p>
 
 <p align="center">
-  
   <h2>🛠 My tools:</h2>
   <a href="https://oracle.com/ru/java/">
     <img
