@@ -118,11 +118,11 @@
   <h2>🪪 My github stats:<h2>
     <img
          src="https://github-readme-stats.vercel.app/api?username=ykhdr&show_icons=true&theme=dark" 
-         height="190px"
+         height="195px"
          align="center">
     <img
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykhdr&layout=compact&theme=dark"
-         height="190px"
+         height="195px"
          align="center">
 </p>
 
