@@ -117,11 +117,11 @@
 <p align="center">
   <h2>🪪 My github stats:<h2>
     <img
-         src="https://github-readme-stats.vercel.app/api?username=ykhdr&show_icons=true&theme=dark" 
+         src="https://github-readme-stats.vercel.app/api?username=ykhdr&show_icons=true&theme=synthwave" 
          height="195px"
          align="center">
     <img
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykhdr&layout=compact&theme=dark"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykhdr&layout=compact&theme=synthwave"
          height="195px"
          align="center">
 </p>
