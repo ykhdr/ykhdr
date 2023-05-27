@@ -35,15 +35,14 @@
     </a>
 </p>
 <p align="center">
-  
-  
-  <h2>💻 About me:</h2>
-  <h5>
-    <img 
-       src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"
-       height="350px"
+  <img 
+       src="https://cutewallpaper.org/25/anime-phone-gif-wallpaper/23-anime-desktop-wallpaper-gif-1-%E2%96%B7-hd-wallpaper-4k-%E2%9C%93-free.gif"
+       height="420px"
        align="right"
        alt="gif" >
+   
+  <h2>💻 About me:</h2>
+  <h5>
      <ul>
         <li>💥 I'm 20 years old and I am a second-year student at NSU<p></li>
          <li>🎓 I'm currently studying: <b>Java core</b>, <b>Networking technology</b><p> </li>
