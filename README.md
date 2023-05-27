@@ -116,11 +116,11 @@
   <h2>🪪 My github stats:<h2>
     <img
          src="https://github-readme-stats.vercel.app/api?username=ykhdr&show_icons=true&theme=synthwave" 
-         height="195px"
+         height="220px"
          align="center">
     <img
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykhdr&layout=compact&theme=synthwave"
-         height="195px"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykhdr&theme=synthwave"
+         height="220px"
          align="center">
 </p>
 
