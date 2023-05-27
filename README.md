@@ -36,21 +36,22 @@
 </p>
 <p align="center">
   
-  <img 
+  
+  <h2>💻 About me:</h2>
+  <h5>
+    <img 
        src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"
        height="350px"
        align="right"
        alt="gif" >
-  
-  <h2>💻 About me:</h2>
-  <h4>
      <ul>
         <li>💥 I'm 20 years old and I am a second-year student at NSU<p></li>
-        <li>🎓 I'm currently studying: <b>Java core</b>, <b>Networking technology</b><p> </li>
+         <li>🎓 I'm currently studying: <b>Java core</b>, <b>Networking technology</b><p> </li>
         <li>💡 I'm constantly striving to learn and develop my skills!<p></li>
         <li>📨 If you have any questions, suggestions or just want to get to know me, don't hesitate to contact me!<p></li> 
     </ul>
-  </h4>
+  </h5>
+  
 </p>
 
 <p align="center">
