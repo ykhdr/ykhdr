@@ -44,8 +44,8 @@
   <h2>💻 About me:</h2>
   <h4>
      <ul>
-        <li>💥 I'm 20 years old and I am a second-year student at NSU<p></li>
-         <li>🎓 I'm currently studying: <b>Java core</b>, <b>Networking technology</b><p> </li>
+        <li>💥 I'm 20 years old and I am a thrid-year student at NSU<p></li>
+         <li>🎓 I'm currently studying: <b>Spring (MVC, Boot, Web, etc.)</b>, <b>Networking technology</b>, <b>Operating system</b>, <b>Database</b> <p> </li>
         <li>💡 I'm constantly striving to learn and develop my skills!<p></li>
         <li>📨 If you have any questions, suggestions or just want to get to know me, don't hesitate to contact me!<p></li> 
     </ul>
