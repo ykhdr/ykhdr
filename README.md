@@ -116,11 +116,11 @@
   <h2>🪪 My stats:<h2>
     <img
          src="https://leetcard.jacoblin.cool/yanhudorozhkov?hide=ranking,easy-solved-count,medium-solved-count,hard-solved-count" 
-         height="215px"
+         height="205px"
          align="center">
     <img
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykhdr&layout=compact&theme=tokyonight"
-         height="215px"
+         height="205px"
          align="center">
 </p>
 
