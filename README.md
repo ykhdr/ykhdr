@@ -115,7 +115,7 @@
 <p align="center">
   <h2>🪪 My stats:<h2>
     <img
-         src="https://leetcard.jacoblin.cool/yanhudorozhkov?hide=ranking,easy-solved-count,medium-solved-count,hard-solved-count" 
+         src="https://leetcard.jacoblin.cool/ykhdr?hide=ranking,easy-solved-count,medium-solved-count,hard-solved-count" 
          height="185px"
          align="center">
     <img
