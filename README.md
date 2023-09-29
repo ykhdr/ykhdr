@@ -39,17 +39,17 @@
        height="400px"
        align="right"
        alt="gif" >
-
+</p>
 <h2>💻 About me:</h2>
 <h4>
-<ul>
-    <li>💥 I'm 20 years old and I am a thrid-year student at NSU<p></li>
-    <li>🎓 I'm currently studying: <b>Spring (MVC, Boot, Web, etc.)</b>, <b>Networking technology</b>, <b>Operating system</b>, <b>Database</b> <p> </li>
-    <li>💡 I'm constantly striving to learn and develop my skills!<p></li>
-    <li>📨 If you have any questions, suggestions or just want to get to know me, don't hesitate to contact me!<p></li>
-</ul>
+    <ul>
+        <li>💥 I'm 20 years old and I am a thrid-year student at NSU<p></li>
+        <li>🎓 I'm currently studying: <b>Spring (MVC, Boot, Web, etc.)</b>, <b>Networking technology</b>, <b>Operating system</b>, <b>Database</b> <p> </li>
+        <li>💡 I'm constantly striving to learn and develop my skills!<p></li>
+        <li>📨 If you have any questions, suggestions or just want to get to know me, don't hesitate to contact me!<p></li>
+    </ul>
+</h4>
 
-<p>
 <h2>🛠 My tools:</h2>
 <h3> Languages</h3>
     <a href="https://oracle.com/ru/java/">
@@ -138,16 +138,14 @@
             alt="MySQL"
             height="60px">
     </a>
-
-<p>
   <h2>🪪 My stats:</h2>
-    <img
+        <img
          src="https://leetcard.jacoblin.cool/ykhdr?hide=ranking,easy-solved-count,medium-solved-count,hard-solved-count" 
-         height="163px"
+         height="183px"
          align="center">
-    <img
+        <img
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykhdr&layout=compact&theme=tokyonight"
-         height="163px"
+         height="183px"
          align="center">
 
 
