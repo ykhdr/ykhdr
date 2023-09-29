@@ -40,79 +40,107 @@
        height="400px"
        align="right"
        alt="gif" >
-   
-  <h2>💻 About me:</h2>
-  <h4>
-     <ul>
-        <li>💥 I'm 20 years old and I am a thrid-year student at NSU<p></li>
-         <li>🎓 I'm currently studying: <b>Spring (MVC, Boot, Web, etc.)</b>, <b>Networking technology</b>, <b>Operating system</b>, <b>Database</b> <p> </li>
-        <li>💡 I'm constantly striving to learn and develop my skills!<p></li>
-        <li>📨 If you have any questions, suggestions or just want to get to know me, don't hesitate to contact me!<p></li> 
-    </ul>
-  </h5>
-</p>
 
-<p align="center">
-  <h2>🛠 My tools:</h2>
-  <a href="https://oracle.com/ru/java/">
-    <img
-        src="https://skillicons.dev/icons?i=java"
-        title="Java"
-        alt="Java"
-        height="60px">
-  </a>
-  <a href="https://iso.org/">
-    <img
-        src="https://user-images.githubusercontent.com/90527574/230726366-32827d1f-021a-40ed-9572-b9313311fb6e.svg"
-        title="C"
-        alt="C"
-        height="60px">
-  </a>
-  <a href="https://isocpp.org/">
-    <img
-        src="https://user-images.githubusercontent.com/90527574/230726381-9ed4191b-2a7d-4398-a09f-0b3561d8082c.svg"
-        title="C++"
-        alt="C++"
-        height="60px">
-  </a>
-  <a href="https://maven.apache.org/">
-    <img
-        src="https://skillicons.dev/icons?i=maven"
-        title="Maven"
-        alt="Maven"
-        height="60px">
-  </a>
-  <a href="https://cmake.org/">
-    <img
-        src="https://skillicons.dev/icons?i=cmake"
-        title="CMake"
-        alt="CMake"
-        height="60px">
-  </a>
-  <a href="https://git-scm.com/">
-    <img
-        src="https://user-images.githubusercontent.com/90527574/230726524-9aaa426e-c76d-4b6c-bd12-60c8bbb3c193.svg"
-        title="Git"
-        alt="git"
-        height="60px">
-  </a>
-  <a href="https://github.com/">
-    <img
-        src="https://skillicons.dev/icons?i=github"
-        title="GitHub"
-        alt="GitHub"
-        height="60px">
-  </a>
-  <a href="https://www.jetbrains.com/">
-    <img
-        src="https://user-images.githubusercontent.com/90527574/230726548-3ba069be-a8d8-48db-b322-4b4bb691746a.svg"
-        title="JetBrains"
-        alt="JetBrains"
-        height="60px">
-  </a>
-</p>
+<h2>💻 About me:</h2>
+<h4>
+<ul>
+    <li>💥 I'm 20 years old and I am a thrid-year student at NSU<p></li>
+    <li>🎓 I'm currently studying: <b>Spring (MVC, Boot, Web, etc.)</b>, <b>Networking technology</b>, <b>Operating system</b>, <b>Database</b> <p> </li>
+    <li>💡 I'm constantly striving to learn and develop my skills!<p></li>
+    <li>📨 If you have any questions, suggestions or just want to get to know me, don't hesitate to contact me!<p></li>
+</ul>
 
-<p align="center">
+<p>
+<h2>🛠 My tools:</h2>
+<h3> Languages</h3>
+    <a href="https://oracle.com/ru/java/">
+        <img
+            src="https://skillicons.dev/icons?i=java"
+            title="Java"
+            alt="Java"
+            height="60px">
+    </a>
+    <a href="https://iso.org/">
+        <img
+            src="https://user-images.githubusercontent.com/90527574/230726366-32827d1f-021a-40ed-9572-b9313311fb6e.svg"
+            title="C"
+            alt="C"
+            height="60px">
+    </a>
+    <a href="https://isocpp.org/">
+        <img
+            src="https://user-images.githubusercontent.com/90527574/230726381-9ed4191b-2a7d-4398-a09f-0b3561d8082c.svg"
+            title="C++"
+            alt="C++"
+            height="60px">
+    </a>
+    <a>
+        <img 
+            src="https://skillicons.dev/icons?i=kotlin"
+            title="Kotlin"
+            alt="Kotlin"
+            height="60px">
+    </a>
+    <a>
+        <img 
+            src="https://skillicons.dev/icons?i=python"
+            title="Kotlin"
+            alt="Kotlin"
+            height="60px">
+    </a>
+    <a> 
+        <img 
+            src="https://skillicons.dev/icons?i=dart"
+            title="Kotlin"
+            alt="Kotlin"
+            height="60px">
+    </a>
+<h3>Java</h3>
+    <a href="https://maven.apache.org/">
+        <img
+            src="https://skillicons.dev/icons?i=maven"
+            title="Maven"
+            alt="Maven"
+            height="60px">
+    </a>
+    <a>
+        <img
+            src="https://skillicons.dev/icons?i=gradle"
+            title="Maven"
+            alt="Maven"
+            height="60px">
+    </a>
+    <a>
+        <img
+            src="https://skillicons.dev/icons?i=spring"
+            title="Maven"
+            alt="Maven"
+            height="60px">
+    </a>
+    <a>
+        <img
+            src="https://skillicons.dev/icons?i=hibernate"
+            title="Maven"
+            alt="Maven"
+            height="60px">
+    </a>
+<h3>Database</h3>
+    <a>
+        <img
+            src="https://skillicons.dev/icons?i=postgresql"
+            title="Maven"
+            alt="Maven"
+            height="60px">
+    </a>
+    <a>
+        <img
+            src="https://skillicons.dev/icons?i=mysql"
+            title="Maven"
+            alt="Maven"
+            height="60px">
+    </a>
+
+<p>
   <h2>🪪 My stats:<h2>
     <img
          src="https://leetcard.jacoblin.cool/ykhdr?hide=ranking,easy-solved-count,medium-solved-count,hard-solved-count" 
