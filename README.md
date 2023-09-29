@@ -74,25 +74,25 @@
             alt="C++"
             height="60px">
     </a>
-    <a>
+    <a href="https://kotlinlang.org/">
         <img 
             src="https://skillicons.dev/icons?i=kotlin"
             title="Kotlin"
             alt="Kotlin"
             height="60px">
     </a>
-    <a>
+    <a href="https://www.python.org/">
         <img 
             src="https://skillicons.dev/icons?i=python"
-            title="Kotlin"
-            alt="Kotlin"
+            title="Python"
+            alt="Python"
             height="60px">
     </a>
-    <a> 
+    <a href="https://dart.dev/"> 
         <img 
             src="https://skillicons.dev/icons?i=dart"
-            title="Kotlin"
-            alt="Kotlin"
+            title="Dart"
+            alt="Dart"
             height="60px">
     </a>
 <h3>Java</h3>
@@ -103,40 +103,40 @@
             alt="Maven"
             height="60px">
     </a>
-    <a>
+    <a href="https://gradle.org/">
         <img
             src="https://skillicons.dev/icons?i=gradle"
-            title="Maven"
-            alt="Maven"
+            title="Gradle"
+            alt="Gradle"
             height="60px">
     </a>
-    <a>
+    <a href="https://spring.io/">
         <img
             src="https://skillicons.dev/icons?i=spring"
-            title="Maven"
-            alt="Maven"
+            title="Spring"
+            alt="Spring"
             height="60px">
     </a>
-    <a>
+    <a href="https://hibernate.org/">
         <img
             src="https://skillicons.dev/icons?i=hibernate"
-            title="Maven"
-            alt="Maven"
+            title="Hibernate"
+            alt="Hibernate"
             height="60px">
     </a>
 <h3>Database</h3>
-    <a>
+    <a href="https://www.postgresql.org/">
         <img
             src="https://skillicons.dev/icons?i=postgresql"
-            title="Maven"
-            alt="Maven"
+            title="PostgreSQL"
+            alt="PostgreSQL"
             height="60px">
     </a>
-    <a>
+    <a href="https://www.mysql.com/">
         <img
             src="https://skillicons.dev/icons?i=mysql"
-            title="Maven"
-            alt="Maven"
+            title="MySQL"
+            alt="MySQL"
             height="60px">
     </a>
 
