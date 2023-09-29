@@ -1,9 +1,8 @@
-<h1 align="center">Hi there, I'm Yan</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Hi there, I'm Yan </h1>
 <h3 align="center">Computer science student</h3>
 
 <p align="center">
-    <a href="http://papertoilet.com/">
+    <a href="https://papertoilet.com/">
         <img
             src="https://komarev.com/ghpvc/?username=ykhdr&style=for-the-badge&color=00AA00"
             alt="View Count"
@@ -141,7 +140,7 @@
     </a>
 
 <p>
-  <h2>🪪 My stats:<h2>
+  <h2>🪪 My stats:</h2>
     <img
          src="https://leetcard.jacoblin.cool/ykhdr?hide=ranking,easy-solved-count,medium-solved-count,hard-solved-count" 
          height="185px"
@@ -150,5 +149,5 @@
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykhdr&layout=compact&theme=tokyonight"
          height="185px"
          align="center">
-</p>
+
 
