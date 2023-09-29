@@ -140,14 +140,15 @@
 </a>
 </p>
 <h2>🪪 My stats:</h2>
+<p>
 <img
     src="https://leetcard.jacoblin.cool/ykhdr?hide=ranking,easy-solved-count,medium-solved-count,hard-solved-count"
-    height="173px"
+    height="193px"
     align="center">
 <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykhdr&layout=compact&theme=tokyonight"
-    height="173px"
+    height="193px"
     align="center">
-
+</p>
 
 
