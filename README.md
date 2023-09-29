@@ -143,11 +143,11 @@
   <h2>🪪 My stats:</h2>
     <img
          src="https://leetcard.jacoblin.cool/ykhdr?hide=ranking,easy-solved-count,medium-solved-count,hard-solved-count" 
-         height="183px"
+         height="173px"
          align="center">
     <img
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykhdr&layout=compact&theme=tokyonight"
-         height="183px"
+         height="173px"
          align="center">
 
 
