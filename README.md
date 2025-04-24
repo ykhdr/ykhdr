@@ -43,8 +43,8 @@
 <h2>💻 About me:</h2>
 <h4>
 <ul>
-    <li>🎓 I'm 21 years old and a fourth-year student at NSU<p></li>
-    <li>💥 I'm currently junior Go developer<p> </li>
+    <li>🎓 I'm 22 years old and a fourth-year student at NSU<p></li>
+    <li>💥 I'm currently Go developer<p> </li>
     <li>📨 If you have any questions, suggestions or just want to get to know me, don't hesitate to contact me!<p></li>
 </ul>
 
