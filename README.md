@@ -8,25 +8,13 @@
             alt="View Count"
             title="View count (click for something interesting)">
     </a>
-    <a href="https://vk.com/yan.khudorozhkov/">
-        <img
-            src="https://img.shields.io/badge/-Vkontakte-1155ba?style=for-the-badge&logo=Vk"
-            title="VK"
-            alt="VK">
-    </a>
-    <a href="https://instagram.com/yanuulya_/">
-        <img
-            src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-            title="Instagram"
-            alt="Instagram">
-    </a>
     <a href="https://t.me/ykhdr/">
         <img
             src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
             title="Telegram"
             alt="Telagram">
     </a>
-    <a href="mailto:y.khudorozhkov@g.nsu.ru">
+    <a href="mailto:yanhudorozhkov@gmail.com">
         <img
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
             title="GMail"
