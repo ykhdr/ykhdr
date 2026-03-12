@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Yan </h1>
-<h3 align="center">Computer science student</h3>
+<h3 align="center">Software engineer</h3>
 
 <p align="center">
     <a href="https://papertoilet.com/">
@@ -27,14 +27,6 @@
        height="400px"
        align="right"
        alt="gif" >
-
-<h2>💻 About me:</h2>
-<h4>
-<ul>
-    <li>🎓 I'm 22 years old and a fourth-year student at NSU<p></li>
-    <li>💥 I'm currently Go developer<p> </li>
-    <li>📨 If you have any questions, suggestions or just want to get to know me, don't hesitate to contact me!<p></li>
-</ul>
 
 <h2>🪪 My stats:</h2>
 <p>
