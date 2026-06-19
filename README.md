@@ -21,23 +21,3 @@
             alt="GMail">
     </a>
 </p>
-<p align="center">
-  <img 
-       src="https://cutewallpaper.org/25/anime-phone-gif-wallpaper/23-anime-desktop-wallpaper-gif-1-%E2%96%B7-hd-wallpaper-4k-%E2%9C%93-free.gif"
-       height="400px"
-       align="right"
-       alt="gif" >
-
-<h2>🪪 My stats:</h2>
-<p>
-<img
-    src="https://leetcard.jacoblin.cool/ykhdr?hide=ranking,easy-solved-count,medium-solved-count,hard-solved-count"
-    height="193px"
-    align="center">
-<img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykhdr&layout=compact&theme=tokyonight"
-    height="193px"
-    align="center">
-</p>
-
-
